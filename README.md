@@ -2,9 +2,4 @@
 
 <h1>Stack</h1>
 
-<ul>
-  <li>
-    <img src={(https://skillicons.dev/icons?i=js)}/>
-  </li>
-</ul>
-
+[![JS](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
