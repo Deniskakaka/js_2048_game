@@ -1,9 +1,10 @@
 [DEMO LINK](https://deniskakaka.github.io/js_2048_game/)
 
-[![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
 <ul>
   <li>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"></a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+      [![JS](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
+    </a>
   </li>
   <li></li>
   <li></li>
