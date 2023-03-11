@@ -4,7 +4,7 @@
 
 <ul>
   <li>
-    [![JS](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)]
+    <img src={(https://skillicons.dev/icons?i=js)}/>
   </li>
 </ul>
 
