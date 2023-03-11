@@ -3,7 +3,7 @@
 <ul>
   <li>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-      [![JS](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
+      {[![JS](https://skillicons.dev/icons?i=js)](https://skillicons.dev)}
     </a>
   </li>
   <li></li>
